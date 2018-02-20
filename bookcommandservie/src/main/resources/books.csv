@@ -1,0 +1,408 @@
+1,Don Quixote,Miguel de Cervantes,1605
+2,In Search of Lost Time ,Marcel Proust ,1913
+3,Ulysses,James Joyce,1922
+4,The Odyssey,Homer,-700
+5,War and Peace,Leo Tolstoy,1869
+6,Moby Dick,Herman Melville,1851
+7,The Divine Comedy ,Dante Alighieri ,1472
+8,Hamlet,William Shakespeare,1601
+9,The Adventures of Huckleberry Finn,Mark Twain,1884
+10,The Great Gatsby ,F. Scott Fitzgerald,1925
+11,The Iliad,Homer,-700
+12,One Hundred Years of Solitude ,Gabriel Garcia Marquez ,1967
+13,Madame Bovary,Gustave Flaubert,1857
+14,Crime and Punishment ,Fyodor Dostoyevsky,1866
+15,The Brothers Karamazov ,Fyodor Dostoyevsky,1880
+16,Pride and Prejudice,Jane Austen,1813
+17,Wuthering Heights,Emily Brontë,1847
+18,The Sound and the Fury,William Faulkner,1929
+19,Lolita ,Vladimir Nabokov,1955
+20,Nineteen Eighty Four,George Orwell,1949
+21,Alice's Adventures in Wonderland ,Lewis Carroll,1865
+22,To the Lighthouse ,Virginia Woolf ,1927
+23,Great Expectations,Charles Dickens,1861
+24,Anna Karenina,Leo Tolstoy ,1877
+25,The Catcher in the Rye,J. D. Salinger,1945
+26,Middlemarch,George Eliot,1871
+27,Gulliver's Travels,Jonathan Swift ,1726
+28,The Aeneid,Virgil,-19
+29,Heart of Darkness,Joseph Conrad,1899
+30,One Thousand and One Nights,India/Iran/Iraq/Egypt,1706
+31,The Canterbury Tales,Geoffrey Chaucer,1380
+32,The Stranger ,Albert Camus,1946
+33,The Stories of Anton Chekhov,Anton Chekhov,1961
+34,The Grapes of Wrath ,John Steinbeck,1939
+35,Catch-22 ,Joseph Heller,1961
+36,The Red and the Black,Stendhal,1830
+37,The Trial,Franz Kafka,1925
+38,Leaves of Grass,Walt Whitman,1855
+39,Absalom Absalom!,William Faulkner,1936
+40,Oedipus the King,Sophocles,-429
+41,Candide,Voltaire,1759
+42,David Copperfield,Charles Dickens,1850
+43,Invisible Man ,Ralph Ellison,1952
+44,Mrs. Dalloway ,Virginia Woolf ,1925
+45,Beloved,Toni Morrison,1987
+46,Jane Eyre,Charlotte Brontë,1847
+47,The Complete Tales and Poems of Edgar Allan Poe,Edgar Allan Poe,1975
+48,As I Lay Dying,William Faulkner,1930
+49,Faust,Johann Wolfgang von Goethe,1808
+50,The Complete Stories of Franz Kafka,Franz Kafka,1971
+51,A Portrait of the Artist as a Young Man ,James Joyce,1917
+52,Paradise Lost,John Milton,1667
+53,Things Fall Apart ,Chinua Achebe,1958
+54,To Kill a Mockingbird ,Harper Lee,1960
+55,Les Misérables,Victor Hugo,1862
+56,Dead Souls,Nikolai Gogol,1842
+57,Collected Fiction,Jorge Luis Borges,1935
+58,Tristram Shandy,Laurence Sterne,1759
+59,The Magic Mountain,Thomas Mann,1924
+60,Animal Farm,George Orwell,1946
+61,The Sun Also Rises ,Ernest Hemingway,1926
+62,Antigone,Sophocles,-442
+63,The Idiot,Fyodor Dostoyevsky,1868
+64,Midnight's Children ,Salman Rushdie,1981
+65,Emma,Jane Austen,1815
+66,A Passage to India ,E.M. Forster,1924
+67,The Metamorphosis,Franz Kafka,1915
+68,Gargantua and Pantagruel,Francois Rabelais,1532
+69,The Portrait of a Lady ,Henry James,1881
+70,The Castle,Franz Kafka,1926
+71,The Old Man and the Sea,Ernest Hemingway,1952
+72,Fathers and Sons,Ivan Turgenev,1862
+73,Tom Jones,Henry Fielding,1749
+74,Brave New World,Aldous Huxley,1931
+75,Fairy Tales and Stories,Hans Christian Anderson,1843
+76,Lord of the Flies ,William Golding,1954
+77,Oresteia,Aeschylus,-458
+78,Frankenstein ,Mary Shelley,1831
+79,Decameron,Giovanni Boccaccio,1350
+80,A Farewell to Arms,Ernest Hemingway,1929
+81,The Scarlet Letter,Nathaniel Hawthorne,1850
+82,The Tale of Genji,Murasaki Shikibu,1000
+83,Vanity Fair,William Makepeace Thackeray,1847
+84,Oedipus at Colonus,Sophocles,-401
+85,Robinson Crusoe,Daniel Defoe,1719
+86,Waiting for Godot,Samuel Beckett,1953
+87,Metamorphoses,Ovid,8
+88,Cousin Bette,Honoré de Balzac,1846
+89,The Tin Drum,Günter Grass,1959
+90,Pale Fire ,Vladimir Nabokov,1962
+91,For Whom the Bell Tolls,Ernest Hemingway,1940
+92,Father Goriot,Honoré de Balzac,1835
+93,A Doll's House,Henrik Ibsen,1879
+94,Under the Volcano ,Malcolm Lowry,1947
+95,Journey to the End of The Night,Louis-Ferdinand Céline,1932
+96,Buddenbrooks,Thomas Mann,1901
+97,The Lord of the Rings,J. R. R. Tolkien ,1954
+98,Poems of Emily Dickinson,Emily Dickinson,1955
+99,Sons and Lovers,D. H. Lawrence,1913
+100,Collected Poems of W. B. Yeats,W. B. Yeats,1933
+101,Stories of Ernest Hemingway,Ernest Hemingway,1987
+102,The Waste Land,T. S. Eliot,1922
+103,The Possessed,Fyodor Dostoevsky,1872
+104,Tess of the d'Urbervilles,Thomas Hardy,1891
+105,The Good Soldier,Ford Madox Ford,1915
+106,A Sentimental Education,Gustave Flaubert,1869
+107,Slaughterhouse-Five ,Kurt Vonnegut,1969
+108,On the Road,Jack Kerouac,1957
+109,Medea,Euripides,-431
+110,Electra,Sophocles,-409
+111,The Little Prince,Antoine de Saint-Exupéry,1943
+112,Charlotte's Web,E. B. White,1952
+113,Nostromo,Joseph Conrad,1904
+114,Native Son ,Richard Wright,1940
+115,The Age of Innocence,Edith Wharton,1920
+116,Gone With the Wind ,Margaret Mitchell,1937
+117,Household Tales,Brothers Grimm,1812
+118,The Complete Stories of Flannery O'Connor,Flannery O'Connor,1971
+119,The Master and Margarita,Mikhail Bulgakov,1966
+120,Epic of Gilgamesh,Unknown,-600
+121,The Flowers of Evil,Charles Baudelaire,1857
+122,Twenty Thousand Leagues Under the Sea,Jules Verne,1870
+123,Treasure Island,Robert Louis Stevenson,1881
+124,King Lear,William Shakespeare,1608
+125,Hunger,Knut Hamsun,1890
+126,All the King's Men,Robert Penn Warren,1946
+127,The Charterhouse of Parma,Stendhal,1839
+128,The Plague,Albert Camus,1947
+129,De Rerum Natura,Lucretius,-55
+130,The Color Purple,Alice Walker,1982
+131,Steppenwolf,Hermann Hesse,1927
+132,An American Tragedy,Theodore Dreiser,1925
+133,Doctor Zhivago,Boris Pasternak,1957
+134,The Moviegoer,Walker Percy,1961
+135,The Golden Notebook,Doris Lessing,1962
+136,Dracula,Bram Stoker,1897
+137,The Poems of Robert Frost,Robert Frost,1969
+138,A Clockwork Orange,Anthony Burgess,1962
+139,Lost Illusions,Honoré de Balzac,1837
+140,The Tempest,William Shakespeare,1610
+141,The Wind in the Willows,Kenneth Grahame,1908
+142,The Count of Monte Cristo,Alexandre Dumas,1844
+143,Orlando: A Biography,Virginia Woolf ,1923
+144,Prometheus Bound,Aeschylus,-415
+145,Phèdre,Jean Racine,1677
+146,Dangerous Liaison,Pierre Choderlos de Laclos,1782
+147,The Picture of Dorian Gray,Oscar Wilde,1890
+148,Eugenie Grandet,Honoré de Balzac,1833
+148,First Folio,William Shakespeare,1623
+149,Women in Love,D. H. Lawrence,1920
+150,Doctor Faustus,Thomas Mann,1947
+151,Hedda Gabler,Henrik Ibsen,1891
+152,Rabbit Run, John Updike,1960
+153,Confessions of Zeno,Italo Svevo,1923
+154,Lord Jim,Joseph Conrad,1900
+155,The Mayor of Casterbridge,Thomas Hardy,1886
+156,Berlin Alexanderplatz,Alfred Döblin,1929
+157,The Handmaid's Tale,Margaret Atwood,1985
+158,Their Eyes Were Watching God ,Zora Neale Hurston,1937
+159,American Pastoral,Philip Roth,1997
+160,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1886
+161,The Complete Poetry and Prose of William Blake,William Blake,1827
+162,My Antonia,Willa Cather,1918
+163,Bleak House,Charles Dickens,1852
+164,The Bacchae,Euripides,-405
+165,One Flew Over the Cuckoo's Nest ,Ken Kesey,1962
+166,The Wind-Up Bird Chronicle,Haruki Murakami,1994
+167,The Waves,Virginia Woolf,1931
+168,Lysistrata,Aristophanes,-411
+169,Blood Meridian,Cormac McCarthy,1986
+170,Harry Potter And The Philosopher's Stone,J. K. Rowling,1997
+171,The Complete Sherlock Holmes,Arthur Conan Doyle,1887
+172,The Rime of the Ancient Mariner,Samuel Taylor Coleridge,1798
+173,The Ambassadors,Henry James,1903
+174,Independent People,Halldor Laxness,1946
+175,Complete Poems of Giacomo Leopardi,Giacomo Leopardi,1946
+176,The Man Without Qualities,Robert Musil,1930
+177,Howards End,E. M. Forster,1910
+178,The Mill on the Floss,George Eliot,1860
+179,The Persians,Aeschylus,-472
+180,The Suppliants,Aeschylus,-470
+181,Seven Against Thebes, Aeschylus,-467
+182,A Season in Hell,Arthur Rimbaud,1873
+183,Of Mice and Men,John Steinbeck,1937
+184,Jude the Obscure,Thomas Hardy,1895
+185,Mourning Becomes Electra, Eugene O'Neill,1931
+186,The Sonnets,William Shakespeare,1609
+187,Death in Venice,Thomas Mann,1912
+188,Tartuffe,Molière,1664
+189,All Quiet on the Western Front,Erich Maria Remarque,1929
+190,Light in August ,William Faulkner,1932
+191,The Pickwick Papers,Charles Dickens,1837
+192,Women of Trachis,Sophocles,-410
+193,Philoctetes,Sophocles,-409
+194,Ajax,Sophocles,-450
+195,Rebecca,Daphne du Maurier,1938
+195,U.S.A. Trilogy,John Dos Passos,1938
+196,The Confusions of Young Törless,Robert Musil,1906
+197,Lady Chatterley's Lover,D. H. Lawrence,1928
+198,The Adventures of Augie March,Saul Bellow,1953
+199,The Unbearable Lightness of Being,Milan Kundera,1984
+200,Le Morte d'Arthur,Thomas Malory,1485
+201,Little Women,Louisa May Alcott,1868
+202,Gravity's Rainbow ,Thomas Pynchon,1973
+203,Pilgrim's Progress ,John Bunyan,1678
+204,The Recognition of Sakuntala,Kalidasa,-200
+205,If on a Winter's Night a Traveller ,Italo Calvino,1979
+206,Dune,Frank Herbert,1965
+207,Through the Looking Glass,Lewis Carroll,1871
+208,The Misanthrope,Molière,1673
+209,The Birds,Aristophanes,-414
+210,Rubaiyat of Omar Khayyam,Edward FitzGerald,1859
+211,The Corrections,Jonathan Franzen,2001
+212,Collected Poems,Wallace Stevens,1955
+213,The Red Badge of Courage,Stephen Crane,1895
+214,Henderson The Rain King,Saul Bellow,1959
+215,The Good Soldier Svejk,Jaroslav Hašek,1923
+216,Love in the Time of Cholera,Gabriel Garcia Marquez,1985
+217,The Call of the Wild,Jack London,1903
+218,The Prelude,William Wordsworth,1850
+219,A Room With a View,E.M. Forster,1908
+220,The Heart Is A Lonely Hunter,Carson McCullers,1940
+221,Atonement,Ian McEwan,2002
+222,The Three Musketeers,Alexandre Dumas,1844
+223,A Confederacy of Dunces,John Kennedy Toole,1980
+224,A Midsummer Night's Dream ,William Shakespeare,1596
+225,A Tale of Two Cities,Charles Dickens,1859
+226,Little Dorrit,Charles Dickens,1857
+227,Saint Joan,George Bernard Shaw,1923
+228,The Wild Duck,Henrik Ibsen,1885
+229,The Master Builder,Henrik Ibsen,1892
+230,Uncle Vanya,Anton Chekhov,1899
+231,Zorba the Greek,Nikos Kazantzakis,1946
+232,Dubliners,James Joyce,1914
+233,Pedro Paramo,Juan Rulfo,1955
+234,The Adventures of Oliver Twist,Charles Dickens,1837
+235,Trojan Women,Euripides,-415
+236,Beowulf,Unknown,900
+237,The Leopard,Giuseppe Tomasi di Lampedusa,1958
+238,The House of the Spirits,Isabel Allende,1982
+239,The Lion The Witch and the Wardrobe ,C.S. Lewis,1950
+240,The Maltese Falcon,Dashiell Hammett,1930
+241,The Remains of the Day,Kazuo Ishiguro,1989
+242,Fahrenheit 451,Ray Bradbury,1953
+243,Finnegans Wake,James Joyce,1939
+244,The School for Wives,Molière,1662
+245,The Would-Be Invalid,Molière,1673
+246,Don Juan,Molière,1821
+247,The Miser,Molière,1668
+248,The Would-Be Gentleman,Molière,1670
+249,The Critique of the School for Wives,Molière,1662
+250,White Teeth ,Zadie Smith,2000
+251,I Claudius ,Robert Graves,1934
+252,Humboldt's Gift,Saul Bellow,1975
+253,Memoirs of Hadrian,Marguerite Yourcenar,1951
+254,Herzog ,Saul Bellow,1964
+255,Labyrinths,Jorge Luis Borges,1962
+256,Jacques the Fatalist and His Master,Denis Diderot,1796
+257,Journey to the West, Wu Cheng'en,1592
+258,Molloy,Samuel Beckett,1951
+259,The Counterfeiters,André Gide,1925
+260,The Temple of the Golden Pavilion,Yukio Mishima,1956
+261,Winnie the Pooh,A. A. Milne,1926
+262,The Poems of John Keats,John Keats,1821
+263,The Book of Disquiet,Fernando Pessoa,1982
+264,Three Sisters,Anton Chekhov,1901
+265,The Big Sleep,Raymond Chandler,1939
+266,The Alchemist,Paulo Coelho ,1988
+267,The House of Mirth,Edith Wharton,1905
+268,Malone Dies,Samuel Beckett,1951
+269,Macbeth,William Shakespeare,1587
+270,Uncle Tom's Cabin,Harriet Beecher Stowe,1852
+271,Bérénice,Jean Racine,1670
+272,Our Mutual Friend,Charles Dickens,1865
+273,The Stories of John Cheever,John Cheever,1978
+274,Wide Sargasso Sea,Jean Rhys,1966
+275,Poems of W. H. Auden,W. H. Auden,1930
+276,Siddhartha,Hermann Hesse,1922
+277,Austerlitz ,W. G. Sebald ,2001
+278,The Cherry Orchard,Anton Chekhov,1904
+279,The Fountainhead,Ayn Rand,1943
+280,The Clouds,Aristophanes,-423
+281,Stories of Guy de Maupassant,Guy de Maupassant,1880
+282,The Makioka Sisters,Tanizaki Jun’ichirō,1948
+283,A House for Mr. Biswas ,V.S. Naipaul,1961
+284,The Unnamable,Samuel Beckett,1953
+285,Romeo and Juliet,William Shakespeare,1597
+286,Collected Poems of Dylan Thomas,Dylan Thomas,1952
+287,History,Elsa Morante,1974
+288,Selected Stories of Lu Hsun,Xun Lu,1936
+289,Lyrical Ballads William Wordsworth, Samuel Taylor Coleridge,1798
+290,Pippi Longstocking,Astrid Lindgren,1945
+291,The Time Machine,H. G. Wells,1895
+292,The Maias: Episodes from Romantic Life,Eça de Queirós,1888
+293,Dream of the Red Chamber,Cao Xueqin,1791
+294,The Man Who Loved Children ,Christina Stead,1940
+295,The World According to Garp,John Irving ,1978
+296,Oblomov,Ivan Goncharov,1859
+297,Tender Is the Night,F. Scott Fitzgerald,1934
+298,The Jungle,Upton Sinclair,1906
+299,The Hitchhiker's Guide to the Galaxy,Douglas Adams,1979
+300,Moll Flanders,Daniel Defoe,1772
+301,The Stand,Stephen King,1978
+303,Collected Poems of T.S. Eliot,T.S. Eliot,1936
+304,Bartleby the Scrivener,Herman Melville,1853
+305,Hippolytus,Euripides,-428
+306,The Wonderful Wizard of Oz,L. Frank Baum ,1900
+307,A Wrinkle In Time,Madeleine L'Engle,1962
+308,Ethan Frome,Edith Wharton,1911
+309,Krapp's Last Tape,Samuel Beckett,1958
+310,The Things They Carried,Tim O'Brien,1990
+311,The Way We Live Now,Anthony Trollope ,1875
+312,The Amazing Adventures of Kavalier and Clay,Michael Chabon,2000
+313,Nausea,Jean-Paul Sartre,1938
+314,Rabbit Is Rich,John Updike,1981
+315,Rabbit at Rest,John Updike,1990
+316,The Prime of Miss Jean Brodie ,Muriel Spark,1961
+317,The Road,Cormac McCarthy,2006
+318,Of Human Bondage ,W. Somerset Maugham,1915
+319,Nine Stories,J.D. Salinger,1953
+320,Clarissa,Samuel Richardson,1748
+321,The Complete Poetry and Selected Prose of John Donne,John Donne,1631
+322,Utopia,Thomas More,1516
+323,Rabbit Redux, John Updike,1971
+324,Atlas Shrugged,Ayn Rand,1957
+325,The Poisonwood Bible,Barbara Kingsolver,1998
+326,The Good Earth,Pearl S. Buck,1931
+327,Nineteen Nineteen,John Dos Passos,1932
+328,Song of Solomon,Toni Morrison,1977
+329,A Tree Grows in Brooklyn,Betty Smith,1943
+330,The Big Money,John Dos Passos,1936
+331,The 42nd Parallel,John Dos Passos,1930
+332,White Noise ,Don DeLillo,1985
+333,Arrowsmith,Sinclair Lewis,1925
+334,Persuasion,Jane Austen,1818
+335,My Name Is Aram,William Saroyan,1940
+336,The Brief Wondrous Life of Oscar Wao,Junot Diaz,2007
+337,Adolphe,Benjamin Constant,1816
+338,The Custom of the Country,Edith Wharton,1913
+339,The Naked Dead,Norman Mailer,1948
+340,Never Let Me Go ,Kazuo Ishiguro,2005
+341,Infinite Jest ,David Foster Wallace,1996
+342,Lucky Jim ,Kingsley Amis,1954
+343,War of the Worlds,H. G. Wells,1898
+344,The Book Thief,Markus Zusak,2005
+345,A Death in the Family ,James Agee,1957
+346,The English Patient,Michael Ondaatje,1992
+347,Aesop's Fables,Aesop,-560
+348,Diary of a Madman and Other Stories,Xun Lu,1918
+349,So Long See You Tomorrow,William Maxwell,1981
+350,Othello,William Shakespeare,1603
+351,Watership Down,Richard Adams,1972
+352,Brighton Rock,Graham Greene,1938
+353,The Devil to Pay in the Backlands,Joao Guimaraes Rosa,1956
+354,The Duino Elegies,Rainer Maria Rilke,1923
+355,The Death of Ivan Ilyich,Leo Tolstoy,1886
+356,Selected Stories of Alice Munro,Alice Munro,1996
+357,Invisible Cities,Italo Calvino,1972
+358,A Prayer for Owen Meany ,John Irving ,1989
+359,The Hunchback of Notre-Dame,Victor Hugo,1831
+360,Brideshead Revisited,Evelyn Waugh,1945
+361,2001: A Space Odyssey,Arthur C. Clarke,1951
+362,The Complete Poetry and Essential Prose of John Milton,John Milton,1674
+363,Twice-Told Tales,Nathaniel Hawthorne,1837
+364,The Poems of Walt Whitman,Walt Whitman,1892
+365,The Faerie Queene,Edmund Spenser,1590
+366,Death Comes for the Archbishop,Willa Cather,1927
+367,A Christmas Carol,Charles Dickens,1843
+368,Bastard Out of Carolina,Dorothy Allison,1993
+369,Cyrano de Bergerac,Edmond Rostand,1897
+370,Loving,Henry Green,1945
+371,The Hound of the Baskervilles,Sir Arthur Conan Doyle,1901
+372,Tristan,Gottfried von Strassburg,1210
+373,The Princess of Cleves,Madame de La Fayette,1678
+374,Blindness,Jose Saramago,1998
+375,The Killer Angels,Michael Shaara,1974
+376,Possession ,A.S. Byatt,1990
+377,Gypsy Ballads,Federico Garcia Lorca,1928
+378,Njal's Saga,Iceland,1200
+379,Bostan, Saadi,1257
+380,Masnavi,Jalal al-Din Muhammad Rumi,1250
+381,The Sound of the Mountain,Yasunari Kawabata,1970
+382,Season of Migration to the North,Al-Tayyib Salih,1966
+383,Forbidden Colours,Yukio Mishima,1951
+384,Poems,Paul Celan,2001
+385,Children of Gebelawi,Naguib Mahfouz,1059
+386,The Sea The Sea,Iris Murdoch,1978
+387,Kim,Rudyard Kipling,1901
+388,The Odes,Horace,-23
+389,Bouvard et Pécuchet,GUSTAVE FLAUBERT,1881
+390,The War of the End of the World,Mario Vargas Llosa,1981
+391,Crash: A Novel,J. G. Ballard,1973
+392,Satanic Verses,Salman Rushdie,1988
+393,Watchmen ,Alan Moore and Dave Gibbons,1986
+394,Middlesex,Jeffrey Eugenides,2002
+395,Endgame,Samuel Beckett,1957
+396,The Adventures of Tom Sawyer,Mark Twain,1876
+397,A Dance to the Music of Time,Anthony Powell,1951
+398,A Lost Lady,Willa Cather,1923
+399,The Last of the Mohicans,James Fenimore Cooper,1826
+400,Barchester Towers,Anthony Trollope,1857
+401,Long Day's Journey Into Night,Eugene O'Neill,1956
+402,Robert Browning's Poetry,Robert Browning,1889
+403,Sophie's World: A Novel About the History of Philosophy,Jostein Gaarder,1991
+404,I'm Not Stiller,Max Frisch,1957
+405,The Crying of Lot 49 ,Thomas Pynchon,1966
+406,The Lover,Marguerite Duras,1984
+407,The Lady with the Dog,Anton Chekhov,1899

@@ -1,0 +1,10 @@
+server:
+  port: 8282
+
+application:
+  configurations:
+    queueName: queue_library
+    exchange: library_exchange
+    saveBookKey: library.save_book_key
+    anythingKey: library.*
+    apiGatewayHost: http://localhost:8000/api

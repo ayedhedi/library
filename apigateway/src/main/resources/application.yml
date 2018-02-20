@@ -1,0 +1,29 @@
+server:
+  port: 8000
+zuul:
+  ignoredServices: '*'
+  prefix: /api
+  routes:
+    commandbook:
+      path: /library/command/books/**
+      serviceId: library-command-book
+      strip-prefix: false
+    querybook:
+      path: /library/query/books/**
+      serviceId: library-query-book
+      strip-prefix: false
+    indexing:
+      path: /library/indexing/**
+      serviceId: library-indexing-service
+      strip-prefix: false
+
+endpoints:
+  routes:
+    sensitive: false
+  trace:
+    sensitive: false
+
+eureka:
+  client:
+    service-url:
+      default-zone: http://localhost:8761/eureka/

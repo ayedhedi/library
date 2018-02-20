@@ -1,0 +1,46 @@
+<form class="books-form">
+  <div class="row">
+    <div class="col-lg-10">
+      <mat-form-field class="books-full-width">
+        <input name="keyword" matInput placeholder="Find a book" [(ngModel)]="keyword">
+      </mat-form-field>
+    </div>
+    <div class="col-lg-2">
+      <button type="button" (click)="search()" mat-button>Search</button>
+    </div>
+  </div>
+</form>
+
+
+<div class="row">
+  <div class="col-lg-5">
+    <div class="row" *ngFor="let book of books">
+      <div class="col-lg-12">
+        <mat-accordion>
+          <mat-expansion-panel  style="background: aliceblue">
+            <mat-expansion-panel-header style="background: oldlace">
+              <mat-panel-title>
+                {{book.title}}
+              </mat-panel-title>
+              <mat-panel-description style="text-align: right;display: block">
+                {{book.year}}
+              </mat-panel-description>
+            </mat-expansion-panel-header>
+            <div class="row">
+              <div class="col-lg-10">
+                <p>{{book.author}}</p>
+              </div>
+              <button mat-icon-button (click)="view(book)">
+                <mat-icon aria-label="Example icon-button with a heart icon">favorite</mat-icon>
+              </button>
+            </div>
+          </mat-expansion-panel>
+        </mat-accordion>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-lg-7">
+    <book [book]="selectedBook"></book>
+  </div>
+</div>
