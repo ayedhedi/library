@@ -30,19 +30,10 @@ so it does not make sens to separate but again the objective here is to learn th
  (of type new book) and sent to the broker, the message will be intercepted
  by the indexing service in order to index the new book.
 
+Reference-style:
+![alt text][arch]
 
-
-
-
-
-
-
-
-
-
-
-
-
+[arch]: https://github.com/ayedhedi/library/blob/master/img/arch.png
 
 
 
